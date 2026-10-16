@@ -1,0 +1,23 @@
+body {
+    font-family: "trebuchet MS", sans-serif;
+    font-size: 22px;
+    letter-spacing: 1.8pt;
+    line-height: 1.5;
+    background-color: #F2AA4CFF;
+  }
+  
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1,
+  h2,
+  p {
+    text-align: center;
+  }
+  
+  ol {
+    margin: 0 30%;
+  }
+  
