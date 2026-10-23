@@ -7,8 +7,8 @@
 <img width="2479" height="1223" alt="2026-10-23_18-28-20" src="https://github.com/user-attachments/assets/99ddc855-e893-412c-9059-9148089bf82b" />
 
 ## Использованные технологии:
-- HTML
+- HTML:
 HTML использовался для создания структуры
   
-- CSS
+- CSS:
 CSS использовался для оформления меню
